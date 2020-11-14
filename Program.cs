@@ -11,7 +11,7 @@ namespace Car
             Car  honda = new Car();
             honda.Make = "Honda";
             honda.Year = 2012;
-            honda.Model = "HRV";
+            honda.Model = "Accord";
 
             // Object initializer -Syntax Sugar.-Inline
             var mazda = new Car() { Make = "Mazda", Model = "Protege", Year = 2012 };
